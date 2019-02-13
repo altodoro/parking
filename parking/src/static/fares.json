@@ -1,0 +1,56 @@
+{
+  "description": "string",
+  "from": "string",
+  "id": "string",
+  "name": "string",
+  "normalDayPeriods": [
+    {
+      "description": "string",
+      "endTime": {
+        "hour": 0,
+        "minute": 0,
+        "nano": 0,
+        "second": 0
+      },
+      "farePeriods": [
+        {
+          "cost": 0,
+          "duration": 0,
+          "fraction": 0
+        }
+      ],
+      "startTime": {
+        "hour": 0,
+        "minute": 0,
+        "nano": 0,
+        "second": 0
+      }
+    }
+  ],
+  "specialDayPeriods": [
+    {
+      "description": "string",
+      "endTime": {
+        "hour": 0,
+        "minute": 0,
+        "nano": 0,
+        "second": 0
+      },
+      "farePeriods": [
+        {
+          "cost": 0,
+          "duration": 0,
+          "fraction": 0
+        }
+      ],
+      "startTime": {
+        "hour": 0,
+        "minute": 0,
+        "nano": 0,
+        "second": 0
+      }
+    }
+  ],
+  "to": "string",
+  "type": "CURRENT"
+}

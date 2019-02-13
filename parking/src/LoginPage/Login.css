@@ -1,0 +1,55 @@
+.loginFormLogo {
+    margin-top: 5%;
+}
+
+.loginForm {
+    padding: 20px;
+    width: 302px;
+    height: 305px;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px 0 rgba(122, 123, 124, 0.59);
+    background-color: #ffffff;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.loginFormField {
+    width: 300px;
+    height: 42px;
+    border-radius: 4px;
+}
+.loginForm .loginFieldLabel {
+    padding: 25px 0 14px 0;
+    border: 0;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #29373d;
+}
+.loginFormField input {
+    border-radius: 4px
+}
+.loginFormField fieldset {
+    border: 1px solid #bdc4c8;
+}
+
+.loginForm .loginTitle {
+    padding: 10px 0 5px 0;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #29373d;
+}
+.loginForm .loginButton {
+    margin-top: 17px;
+}

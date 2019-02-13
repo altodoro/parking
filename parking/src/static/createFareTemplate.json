@@ -1,0 +1,9 @@
+{
+  "description": "test AAA",
+  "from": "10/02/2019",
+  "name": "Alex Test",
+  "normalDayPeriodMax": 20.01,
+   "specialDayPeriodMax": 30.01,
+   "to": "12/02/2019",
+  "type": "ACTUAL"
+}

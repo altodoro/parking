@@ -1,0 +1,12 @@
+.headerBar {}
+.headerButton span {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #29373d;
+    text-transform: initial;
+}
